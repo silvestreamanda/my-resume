@@ -142,7 +142,7 @@ export const content = {
       {
         period: '2018 – 2022',
         title: 'Bacharelado em Ciências Contábeis',
-        organization: 'Universidade Anhanguera – São Paulo',
+        organization: 'Universidade São Judas – São Paulo',
         description:
           'Formação sólida em contabilidade, finanças corporativas, tributação e gestão empresarial. CRC/SP ativo.',
         type: 'education' as const,
