@@ -100,7 +100,7 @@ export function Footer() {
             Feito com <Heart size={12} className="text-gold-500 mx-0.5" /> por{' '}
             <span className="text-slate-400">
               <a
-                href="https://romulosiq.github.io/developer-resume/"
+                href="https://romulosiq.github.io"
                 target="_blank"
                 rel="noopener noreferrer"
               >
